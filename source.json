@@ -1,28 +1,22 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "name":"axtuki1 VPM Listing",
+    "id":"com.axtuki1.vpm",
+    "url":"https://vpm.axtuki1.com/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "email":"contact@axtuki1.com",
+        "name":"axtuki1",
+        "url":"https://about.axtuki1.com/"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"axtuki1 packages",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
+        "url":"https://github.com/axtuki1/vpm-repos",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "vrchat-community/clientsim"
+        "axtuki1/EasyHUD",
+        "axtuki1/FacialAnimationEditor"
     ],
     "packages":[
-        {
-            "name":"com.vrchat.udonsharp",
-            "releases":[
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip",
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.6/com.vrchat.UdonSharp-1.1.6.zip"
-            ]
-        }
     ]
 }
